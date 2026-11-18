@@ -1,0 +1,2 @@
+Fonte: https://github.com/jonassantosmorais/sdd-simple-framework/tree/main/skills/impl-peer-review
+Copiado em 2026-11-18. O repositório de origem não declara licença.
