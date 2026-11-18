@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Security"
+  short_description: "Review software security with verified risk"
+  default_prompt: "Use $review-security to perform a read-only security review and return only confirmed, prioritized risks with evidence."
