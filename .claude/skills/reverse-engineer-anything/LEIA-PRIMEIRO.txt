@@ -1,0 +1,10 @@
+Skill "reverse-engineer-anything" do projeto REA (github.com/morluto/rea), licença MIT.
+
+IMPORTANTE: estes arquivos são só o GUIA (instruções em texto). Eles NÃO fazem o
+REA funcionar sozinho. O REA é um programa separado (servidor MCP) que precisa ser
+instalado NO SEU COMPUTADOR, com o comando oficial:
+
+    npx rea-agents setup
+
+Sem essa instalação no PC, a skill não tem as ferramentas para analisar nada.
+Fonte oficial: github.com/morluto/rea e rea.tools. Copiado em 2026-11-18.
